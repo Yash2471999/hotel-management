@@ -70,20 +70,3 @@ pipeline {
         }
     }
 }
-```
-
-- Click **Commit changes**
-
----
-
-## Your Final Repo Structure:
-```
-hotel-management/
-├── src/
-│   ├── App.jsx         ✅
-│   └── main.jsx        ✅
-├── index.html          ✅
-├── package.json        ✅
-├── vite.config.js      ✅
-├── Dockerfile          ✅
-└── Jenkinsfile         ✅
